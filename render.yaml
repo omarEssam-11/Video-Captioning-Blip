@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: video-captioning-blip
+    runtime: docker
+    plan: free
+    envVars:
+      - key: HF_TOKEN
+        sync: false
+    healthCheckPath: /api/health

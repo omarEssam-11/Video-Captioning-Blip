@@ -1,0 +1,11 @@
+torch>=2.0
+transformers>=4.36
+opencv-python>=4.8
+numpy>=1.24
+Pillow>=10.0
+requests>=2.31
+yt-dlp>=2023.10
+fastapi>=0.104
+uvicorn>=0.24
+gradio>=4.0
+hf-transfer>=0.1.9
