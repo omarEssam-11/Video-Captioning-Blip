@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.mp4
+*.txt
+!requirements.txt
+results/
+test_video.mp4
+captioned_test.mp4
+captioned_test.txt
+api_result.mp4
+.git/

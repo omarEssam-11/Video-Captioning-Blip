@@ -1,3 +1,0 @@
-    0.00s  a red dot is shown in the center of a black circle
-    1.00s  the sun is seen in this image from the earth ' s orbit
-    2.00s  a black background with a yellow dot and a white dot
